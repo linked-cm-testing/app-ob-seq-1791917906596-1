@@ -3,7 +3,7 @@
   "configurations": [
     {
       "command": "npm start",
-      "name": "Run app",
+      "name": "Run ob-seq-1791917906596-1-app",
       "request": "launch",
       "type": "node-terminal"
     }
